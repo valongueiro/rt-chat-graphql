@@ -1,0 +1,15 @@
+{
+  "name": "rt-chat-graphql",
+  "version": "1.0.0",
+  "description": "Real-time chat app with GraphQL and Apollo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Valongueiro",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
